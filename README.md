@@ -1,5 +1,7 @@
 # LingGo <img src="/public/css/icons/wug.png" width=30px>
 
+Demo video: [YouTube](https://youtu.be/UVBqLeedrs0)
+
 LingGo is an interactive study tool to learn the International Phonetic Alphabet (IPA) chart specifically about General American English.
 
 ### What is IPA?
